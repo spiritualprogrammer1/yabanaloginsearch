@@ -1,0 +1,32 @@
+
+.libelle {
+    border: 1px solid black;border-radius: 5px;padding: 8px;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.titlesearch {
+    font-size: 30px;
+    border-bottom: 2px #02f5b89d ridge;
+}
+
+.espacetop {
+    margin-top: 30px;
+
+}
+.searchespacetop {
+    margin-top: 100px
+}
+.espacebottom {
+    margin-bottom: 50px;
+}
+.stylecaract {
+    font-weight: bold;
+}
+.detailslibell {
+    font-weight: bold;
+    font-size: 15px;
+}
+.espacerigth {
+    margin-right: 120px
+}
